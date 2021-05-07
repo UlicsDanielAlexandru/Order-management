@@ -1,0 +1,8 @@
+Order number:2
+Quantity:3
+First name:Goe
+Last name:Zamfir
+Product name:Parfum
+Brand:Lacoste
+Price:100.63
+Total:301.89
