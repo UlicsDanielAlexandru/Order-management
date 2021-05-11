@@ -5,7 +5,7 @@ import java.awt.*;
 import java.awt.event.ActionListener;
 
 /**
- * Clasa este utilizate pentru a implementa fereastra in care utilizatorul alege
+ * Clasa este utilizata pentru a implementa fereastra in care utilizatorul alege
  * comanda, produsul si cantitatea pentru noua comanda.
  */
 

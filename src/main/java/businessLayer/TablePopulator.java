@@ -8,8 +8,8 @@ import java.lang.reflect.Field;
 import java.util.List;
 
 /**
- * Clasa TablePopulator este utilizata pentru a completa atat header-ul cat si
- * continutul unui tabel folosind reflection.
+ * Clasa TablePopulator este utilizata pentru a completa atat header-ul, cat si
+ * continutul unui tabel, folosind reflection.
  */
 
 public class TablePopulator {

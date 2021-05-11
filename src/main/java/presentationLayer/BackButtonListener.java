@@ -11,7 +11,7 @@ import java.awt.event.ActionListener;
 import java.util.stream.Collectors;
 
 /**
- * Clasa BackButtonListener este utilizate pentru a implementa functionalitatea
+ * Clasa BackButtonListener este utilizata pentru a implementa functionalitatea
  * butonului de back din interfata.
  */
 
@@ -30,9 +30,9 @@ public class BackButtonListener implements ActionListener {
 
     /**
      * Cand butonul este apasat, toate tabelele vor fi actualizate, iar din fereastra se
-     * vor elemina toate elementele, fiind adaugate butoanele pentru selectarea
+     * vor elimina toate elementele, fiind adaugate butoanele pentru selectarea
      * categoriei dorite.
-     * @param e evenimentul de apasare al butonului
+     * @param e evenimentul de apasare al butonului din interfata
      */
 
     public void actionPerformed(ActionEvent e) {

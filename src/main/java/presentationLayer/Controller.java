@@ -13,7 +13,7 @@ import java.util.stream.Collectors;
 import java.util.List;
 
 /**
- * Clasa Controller este utilizata pentru a lega clasele de model de interfata grafica.
+ * Clasa Controller este utilizata pentru a lega clasele din model cu interfata grafica.
  */
 
 public class Controller {
@@ -45,16 +45,16 @@ public class Controller {
     }
 
     /**
-     * Clasa InsertButtonListener este utilizate pentru a implementa functionalitatea
+     * Clasa InsertButtonListener este utilizata pentru a implementa functionalitatea
      * butonului de insert.
      */
     public class InsertButtonListener implements ActionListener {
         /**
          * Cand butonul este apasat se verifica daca operatia este realizata asupra
-         * tabelului de clienti sau a celui de produse, urmand ca dupa inserarea tabelul
+         * tabelului de clienti sau a celui de produse, urmand ca dupa inserare tabelul
          * respectiv sa fie actualizat. In cazul in care datele sunt gresite, se afiseaza
-         * un mesaj
-         * @param e evenimentul de aparasare al butonului de insert din interfata
+         * un mesaj.
+         * @param e evenimentul de apasare al butonului de insert din interfata
          */
         public void actionPerformed(ActionEvent e) {
             try {
@@ -212,8 +212,8 @@ public class Controller {
         /**
          * Cand butonul este apasat se verifica asupra carui tabel trebuie sa se
          * realizeze operatia, urmand ca apoi utilizatorul sa introduc un id
-         * valid, si dupa cautare sa se reactualizeze tabelul. In caz de eroare
-         * se afiseaza un mesaj.
+         * valid, dupa cautare tabelul este actualizat astfel incat sa contina doar
+         * instanta cautata. In caz de eroare se afiseaza un mesaj.
          * @param e evenimentul de apasare al butonului din interfata
          */
         public void actionPerformed(ActionEvent e) {

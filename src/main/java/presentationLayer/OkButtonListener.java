@@ -10,7 +10,7 @@ import java.awt.event.ActionListener;
 import java.util.stream.Collectors;
 
 /**
- * Clasa OkButtonListener este utilizate pentru a implementa functionalitatea
+ * Clasa OkButtonListener este utilizata pentru a implementa functionalitatea
  * butonului de ok.
  */
 public class OkButtonListener implements ActionListener {

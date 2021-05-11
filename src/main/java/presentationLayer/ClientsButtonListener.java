@@ -21,7 +21,7 @@ public class ClientsButtonListener implements ActionListener {
      * Cand butonul este apasat se vor elimina componentele din scena, urmand a fi
      * adaugat tabelul cu clienti, butoanele cu operatiile posibile, cat si etichetele
      * si campurile pentru adaugarea datelor.
-     * @param e evenimentul de apasare al butonului
+     * @param e evenimentul de apasare al butonului din interfata
      */
 
     public void actionPerformed(ActionEvent e) {

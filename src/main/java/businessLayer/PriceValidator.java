@@ -2,6 +2,10 @@ package businessLayer;
 
 import model.Product;
 
+/**
+ * Clasa PriceValidator este utilizata pentru a valida pretul unui produs.
+ */
+
 public class PriceValidator implements Validator<Product> {
 
     @Override

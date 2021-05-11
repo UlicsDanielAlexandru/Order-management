@@ -2,6 +2,11 @@ package businessLayer;
 
 import model.Product;
 
+/**
+ * Clasa ProductQuantityValidator este utilizata pentru a valida cantitatea unui produs
+ * din stoc.
+ */
+
 public class ProductQuantityValidator implements Validator<Product>{
 
     @Override

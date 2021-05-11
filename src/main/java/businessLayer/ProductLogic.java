@@ -45,7 +45,7 @@ public class ProductLogic {
 
     /**
      * Metoda este utilizata pentru a actualiza un produs, verificandu-se inainte daca
-     * modificariile nu ar incalca corectitudinea datelor.
+     * modificarile nu ar incalca corectitudinea datelor.
      * @param field campul care se doreste a fi actualizat
      * @param value valoarea cu care va fi actualizat campul
      * @param id id-ul produsului care se doreste a fi actualizat

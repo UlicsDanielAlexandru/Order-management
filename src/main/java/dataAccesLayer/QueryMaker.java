@@ -10,7 +10,7 @@ import java.lang.reflect.Field;
 public class QueryMaker {
 
     /**
-     * Metoda este utilizate pentru a crea un string pentru un query de inserare
+     * Metoda este utilizata pentru a crea un string pentru un query de inserare.
      * @param type clasa obiectului care se doreste a fi inserat
      * @return string-ul pentru query-ul de inserare
      */
@@ -67,7 +67,7 @@ public class QueryMaker {
     }
 
     /**
-     * Metoda utilizata pentru a crea string-ul pentru un query de stergere
+     * Metoda utilizata pentru a crea string-ul pentru un query de stergere.
      * @param type clasa obiectului care se doreste a fi sters
      * @param field campul care va realiza filtrarea, astfel incat o singura instanta
      *              sa fie stearsa
@@ -86,7 +86,7 @@ public class QueryMaker {
     }
 
     /**
-     * Metoda utilizata pentru a crea string-ul pentru un query de selectare
+     * Metoda utilizata pentru a crea string-ul pentru un query de selectare.
      * @param type clasa obiectului cautat
      * @param field campul care va filtra rezultatele
      * @return string-ul pentru query-ul de selectare

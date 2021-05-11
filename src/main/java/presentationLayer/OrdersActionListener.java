@@ -19,8 +19,8 @@ public class OrdersActionListener implements ActionListener {
     }
 
     /**
-     * Cand butonul este apasat, toate componentele sunt elemininate, fiind adaugate
-     * tabelul cu comenzile si butonul de creare al comenzilor
+     * Cand butonul este apasat, toate componentele sunt eliminate, fiind adaugate
+     * tabelul cu comenzile si butonul de creare al comenzilor.
      * @param e evenimentul de apasare al butonului din interfata
      */
 

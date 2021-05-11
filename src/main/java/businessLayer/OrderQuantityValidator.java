@@ -2,6 +2,10 @@ package businessLayer;
 
 import model.CustomersOrder;
 
+/**
+ * Clasa OrderQuantityValidator este utilizata pentru a valida cantitea unei comenzi.
+ */
+
 public class OrderQuantityValidator implements Validator<CustomersOrder>{
 
     @Override

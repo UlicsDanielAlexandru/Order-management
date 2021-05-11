@@ -4,6 +4,10 @@ import model.Client;
 
 import java.util.regex.Pattern;
 
+/**
+ * Clasa NameValidator este utilizata pentru a valida numele si prenumele unui client.
+ */
+
 public class NameValidator implements Validator<Client> {
     private static final String NAME_PATTERN="[^a-zA-z]";
 

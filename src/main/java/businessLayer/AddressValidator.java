@@ -4,6 +4,9 @@ import model.Client;
 
 import java.util.regex.Pattern;
 
+/**
+ * Clasa AddressValidator este utilizata pentru a valida adresa unui client.
+ */
 
 public class AddressValidator implements Validator<Client> {
     private static final String ADDRESS_PATTERN="[^a-zA-Z\\d .-]";
