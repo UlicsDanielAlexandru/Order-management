@@ -1,8 +1,8 @@
 Order number:2
-Quantity:3
-First name:Goe
-Last name:Zamfir
-Product name:Parfum
-Brand:Lacoste
-Price:100.63
-Total:301.89
+Quantity:2
+First name:Marin
+Last name:Zoescu
+Product name:Sapa
+Brand:SVG
+Price:23.98
+Total:47.96
